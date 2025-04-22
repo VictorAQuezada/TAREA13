@@ -1,0 +1,15 @@
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\MASA.csproj.AssemblyReference.cache
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\MASA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\MASA.AssemblyInfoInputs.cache
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\MASA.AssemblyInfo.cs
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\MASA.csproj.CoreCompileInputs.cache
+C:\Users\Shint\Desktop\APPS\MASA\MASA\bin\Debug\netstandard2.0\MASA.deps.json
+C:\Users\Shint\Desktop\APPS\MASA\MASA\bin\Debug\netstandard2.0\MASA.dll
+C:\Users\Shint\Desktop\APPS\MASA\MASA\bin\Debug\netstandard2.0\ref\MASA.dll
+C:\Users\Shint\Desktop\APPS\MASA\MASA\bin\Debug\netstandard2.0\MASA.pdb
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\MASA.dll
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\refint\MASA.dll
+C:\Users\Shint\Desktop\APPS\MASA\MASA\obj\Debug\netstandard2.0\MASA.pdb
